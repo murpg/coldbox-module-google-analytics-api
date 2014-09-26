@@ -2,9 +2,9 @@ component {
 	
 	// Module Properties
 	this.title 				= "ga";
-	this.author 			= "AL";
-	this.webURL 			= "http://www.s.com/";
-	this.description 		= "A simple ga";
+	this.author 			= "George Murphy";
+	this.webURL 			= "http://www.websbygeorge.com";
+	this.description 		= "ColdBox 4.0 Google Analytics API Module";
 	this.version			= "1.0";
 	// If true, looks for views in the parent first, if not found, then in the module. Else vice-versa
 	this.viewParentLookup 	= false;
